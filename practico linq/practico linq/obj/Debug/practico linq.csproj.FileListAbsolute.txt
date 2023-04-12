@@ -1,0 +1,8 @@
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\bin\Debug\practico linq.exe.config
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\bin\Debug\practico linq.exe
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\bin\Debug\practico linq.pdb
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\obj\Debug\practico linq.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\obj\Debug\practico linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\obj\Debug\practico linq.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\obj\Debug\practico linq.exe
+C:\Users\diego\OneDrive\Escritorio\practico LINQ\practico linq\practico linq\obj\Debug\practico linq.pdb

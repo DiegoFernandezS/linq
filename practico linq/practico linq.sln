@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practico linq", "practico linq\practico linq.csproj", "{10A73535-3A7E-48AF-9341-5E26CA0F3190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A73535-3A7E-48AF-9341-5E26CA0F3190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A73535-3A7E-48AF-9341-5E26CA0F3190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A73535-3A7E-48AF-9341-5E26CA0F3190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A73535-3A7E-48AF-9341-5E26CA0F3190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16AACDEA-FA84-4A17-BFB0-4AD530B414DB}
+	EndGlobalSection
+EndGlobal
