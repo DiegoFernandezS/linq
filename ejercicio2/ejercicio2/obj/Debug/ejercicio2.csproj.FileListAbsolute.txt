@@ -1,0 +1,8 @@
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\diego\OneDrive\Escritorio\EJERCICIO 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
