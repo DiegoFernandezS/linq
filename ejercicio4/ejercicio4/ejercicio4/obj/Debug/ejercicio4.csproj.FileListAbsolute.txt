@@ -1,0 +1,8 @@
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\diego\OneDrive\Escritorio\PROGRAMAC. 3\3 - LINQ\practico LINQ\ejercicio4\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb
